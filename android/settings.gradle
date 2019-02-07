@@ -1,0 +1,3 @@
+rootProject.name = 'grupofleury'
+
+include ':app'
